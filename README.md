@@ -303,4 +303,27 @@ No license is specified in this README. Add a license only after choosing the te
 
 ---
 
+## 📸 Application Screenshots
+
+### Resume & Job Description
+![Resume upload and job description](screenshots/home.png)
+
+### Skill-Gap Analysis
+![Skill-gap analysis](screenshots/skill-gap.png)
+
+### Personalized Learning Roadmap
+![Learning roadmap](screenshots/roadmap.png)
+
+### Progress Dashboard
+![Progress dashboard](screenshots/progress.png)
+
+### Company Interview Research
+![Company interview research](screenshots/company-research.png)
+
+### Interactive Mock Interview
+![Interactive mock interview](screenshots/mock-interview.png)
+
+### AI-Generated Interview Questions
+![AI-generated interview questions](screenshots/interview-questions.png)
+
 If you find the project useful, consider starring the repository or sharing feedback through GitHub Issues.
